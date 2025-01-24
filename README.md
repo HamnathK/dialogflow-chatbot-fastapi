@@ -1,4 +1,3 @@
 # dialogflow-chatbot-fastapi
 dialogflow-chatbot-fastapi
 
-curl -H "Content-Type: application/json; charset=utf-8"  -H "Authorization: Bearer ya29.a0ARW5m74AXY-X0H6auK_pERGu3XQZG0cAlLJftgf9UrEobSvOna0ixZNOmeXKSuym0i6jq7n12BTEtaclMuBZMDrd-LJ2oTJSeeauirm2kGdk2lFgZL9nDj9F4l6J61aqowcb3iIQNpZam52Q10mePS2sKR32FS7ILw6xQ7L_mlnLk6LuBMGztR-SgcMeJ2fWlzBb4b_FgYFB07B97PyK4FVcf_F0MeflpngCip1KbekKp7R2LrTSeECG7JcrI97U05272tDmw224w-EZop5wAwEZcjLl4406aItXxHure6vEN9CSRCQnUK1GyPgTXYO_2x3pI0n_Wh8XF1vz0UWeD28AwCnQDG7OqZGDsJ8vc3EJrfHgDqhtbvfbR8t3aVPisLHzLy9JWAQcMxD7941y9yOjCU82bv5wA_r7Gr587TYLaCgYKAWMSARESFQHGX2MidHmJlHNa-LDdxhuH4sz2Ew0435"  -d "{\"queryInput\":{\"text\":{\"text\":\"hamnath\",\"languageCode\":\"en\"}},\"queryParams\":{\"source\":\"DIALOGFLOW_CONSOLE\",\"timeZone\":\"Asia/Calcutta\"}}" "https://dialogflow.googleapis.com/v2/projects/chatbot-learning-sdut/agent/sessions/fb30f0cc-7f27-e27c-d89b-16efc753e06e:detectIntent"
